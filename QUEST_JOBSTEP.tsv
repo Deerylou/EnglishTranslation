@@ -1,4 +1,4 @@
-QUEST_JOBSTEP_20150317_000001	Bokor. You’ve chosen a difficult path. {nl}Refer to the instructions in  your Adventure Journal and make your own doll.
+QUEST_JOBSTEP_20150317_000001	Bokor. You’ve chosen a difficult path. {nl}Refer to the instructions in your Adventure Journal and make your own doll.
 QUEST_JOBSTEP_20150317_000002	You can only get it by yourself. {nl}Check your Adventure Journal on how you can make the doll. 
 QUEST_JOBSTEP_20150317_000003	Congratulations, a new Bokor is born. {nl}When I first chose the path of Bokor, I started by creating a doll of my own. 
 QUEST_JOBSTEP_20150317_000004	Peltasta Master
@@ -61,11 +61,11 @@ QUEST_JOBSTEP_20150317_000060	Oh, this. I saw it somewhere...hmm...looks familia
 QUEST_JOBSTEP_20150317_000061	Huh, this is the tool I lost. {nl}Thank you. Where has it been?
 QUEST_JOBSTEP_20150317_000062	Did you forget about the donation? {nl}It's 5000 silver.
 QUEST_JOBSTEP_20150317_000063	Cleric Master
-QUEST_JOBSTEP_20150317_000064	Thank you in the name of Goddess.{nl}I promise the donations will be used for those injured by monsters. {nl}
-QUEST_JOBSTEP_20150317_000065	I used to be a thief, but I came to realize certain things and I stopped my life of crime. {nl}But there is a little load left on my mind...and I will really end it this time {nl}
+QUEST_JOBSTEP_20150317_000064	In the Goddess' name, thank you.{nl}I promise that the donations will be used for those injured by monsters. {nl}
+QUEST_JOBSTEP_20150317_000065	I used to be a thief, but I came to realize certain things and I stopped my life of crime. {nl}But there is a little load left on my mind...and I will really end it this time. {nl}
 QUEST_JOBSTEP_20150317_000066	Anyway, you did a good job. {nl}Let's get along well from now on, teaching and learning from each other. 
-QUEST_JOBSTEP_20150317_000067	I'm looking for a book. Four books of Lydia Schaffen. {nl}If you help me find the books, I will teach you my skills. 
-QUEST_JOBSTEP_20150317_000068	The book used to be in Miner's town but it was lost when the Vubbes raided. {nl} Try going to the Vubbe Outpost.
+QUEST_JOBSTEP_20150317_000067	I'm looking for four books of Lydia Schaffen. {nl}If you help me find the books, I will teach you my skills. 
+QUEST_JOBSTEP_20150317_000068	The book used to be in Miner's Town but it was lost when the Vubbes raided. {nl} Try going to the Vubbe Outpost.
 QUEST_JOBSTEP_20150317_000069	It's this book. You will need this book if you dream to be the best Archer. {nl}I will make you a copy if you can gather all the books. 
 QUEST_JOBSTEP_20150317_000070	Quarrel Shooter Master holds the next book. {nl}He was looking for Merlog Leather before. Maybe you can try a deal with him using that.
 QUEST_JOBSTEP_20150317_000071	Do you have the Merlog Leather yet from the Hunter Master?
@@ -275,11 +275,11 @@ QUEST_JOBSTEP_20150317_000274	Necromancer spells eat up the spell caster if the 
 QUEST_JOBSTEP_20150317_000275	Wait in the vacant area of the plaza.
 QUEST_JOBSTEP_20150317_000276	Well, that's good enough to start. {nl}I'll pass you the spell of Necromancers.
 QUEST_JOBSTEP_20150317_000277	Druid Master
-QUEST_JOBSTEP_20150317_000278	You need to awaken your senses first if you want to become a Druid. {nl}I'll awake your sense to commune with nature through a duel.
+QUEST_JOBSTEP_20150317_000278	You need to awaken your senses first if you wish to become a Druid. {nl}I'll awaken your senses to commune with nature through a duel.
 QUEST_JOBSTEP_20150317_000279	There's not enough space here so I'll see you at the vacant area of the plaza.
 QUEST_JOBSTEP_20150317_000280	You have some special senses. {nl}If I can lead you well as a Druid, your future will look promising.
-QUEST_JOBSTEP_20150317_000281	Only combat makes us stronger. {nl}Prove yourself if you want to learn from me!
-QUEST_JOBSTEP_20150317_000282	Our ways are simple. {nl}If you leave, you have what it takes and if not, you don't. {nl}Since you are alive, you are worth it.
+QUEST_JOBSTEP_20150317_000281	Only combat makes us stronger. {nl}Prove yourself if you aspire to learn from me!
+QUEST_JOBSTEP_20150317_000282	Our ways are simple. {nl}If you leave, you have what it takes. And if not, you don't. {nl}Since you are alive, you are worth it.
 QUEST_JOBSTEP_20150317_000283	If you're qualified, I'll take your mana to the next level as a Linker. {nl}It doesn't matter which magic it is. I'll test you through a duel.
 QUEST_JOBSTEP_20150317_000284	I tested you at your level and you appear qualified. {nl}I will help you sharpen your mana as promised.
 QUEST_JOBSTEP_20150317_000285	Hunters talk only with arrows. {nl}I will tone it down to your level so if you want to learn from me, {nl}you have to overcome me.
@@ -562,16 +562,16 @@ QUEST_JOBSTEP_20150317_000561	The Red Vubbe Warriors in this forest are hard to 
 QUEST_JOBSTEP_20150317_000562	How are you going to use this super natural power if you don't trust yourself?{nl}Don't you think so?
 QUEST_JOBSTEP_20150317_000563	Your abilities are way better than I expected.{nl}But, if you learn from me, you can reach a higher stage.
 QUEST_JOBSTEP_20150317_000564	Before you learn magic from me, I want to see how you control mana.{nl}Defeat the Vubbe Warrior at the western forest of Siaulai using any magic you want.
-QUEST_JOBSTEP_20150317_000565	As you know more about Linker, it is very interesting.{nl}Don't you think so? Reading the string of mana...
-QUEST_JOBSTEP_20150317_000566	You possess great abilities indeed.{nl}As a linker, if I can lead you well, you will become a really powerful magician.
+QUEST_JOBSTEP_20150317_000565	As you gain more knowledge about Linker, you will find that it's very interesting.{nl}Don't you think so? Reading the string of mana...
+QUEST_JOBSTEP_20150317_000566	You possess great abilities indeed.{nl}As a Linker, if I can lead you well, you will become a really powerful magician.
 QUEST_JOBSTEP_20150317_000567	Before you learn the magics of Thaumaturge, I need to test your magical skills.{nl}Defeat the Burning Salamanders at Magicians' Tower.
 QUEST_JOBSTEP_20150317_000568	It is important to measure your skill.{nl}It will be more important if you don't pass the test.
 QUEST_JOBSTEP_20150317_000569	This is nice.{nl}I will help with my best efforts for your future development.{nl}{nl}
-QUEST_JOBSTEP_20150317_000570	Instead of bragging about yourself in words, it's much better to show others that you are competent.{nl}I will give you a test. Defeat slimy Reaverpedes at Remaining Tree Dale.
+QUEST_JOBSTEP_20150317_000570	Instead of bragging about yourself in words, it's much better to show others that you are competent through actions.{nl}I will give you a test. Defeat slimy Reaverpedes at Remaining Tree Dale.
 QUEST_JOBSTEP_20150317_000571	The Reaverpedes at Remaining Tree Dale would fit your reputation.{nl}I've heard your name enough, but I should check with my own eyes.
 QUEST_JOBSTEP_20150317_000572	Very nice.{nl}You have obtained the right to become stronger with this.{nl}
 QUEST_JOBSTEP_20150317_000573	You better give up if your will is not strong enough.{nl}If that's not it, Defeat the Devil Gloves that are walking around here.
-QUEST_JOBSTEP_20150317_000574	Evil spirits are just tools.{nl}I will not do anything that would turn my back on the goddess.
+QUEST_JOBSTEP_20150317_000574	Evil spirits are just tools.{nl}I will not do anything that would turn my back on the Goddess.
 QUEST_JOBSTEP_20150317_000575	You really use every possible means.{nl}Well, we are the same about that. I will permit you to learn magic from me.
 QUEST_JOBSTEP_20150317_000576	I have prepared something nice down there for someone who may become my disciple.{nl}From there, pick up some fragments of corpses. 
 QUEST_JOBSTEP_20150317_000577	Being a Necromancer is really nice.{nl}But, using humans as ingredients is forbidden.
@@ -704,8 +704,8 @@ QUEST_JOBSTEP_20150317_000703	Insteand of an entrance test of Pardoner, there's 
 QUEST_JOBSTEP_20150317_000704	I heard he lost it at Ruklys street so go there and find it.
 QUEST_JOBSTEP_20150317_000705	At the moment when I didn't know what to do, the goddess sent you.{nl}Anyways, I congratulate you to become a Pardoner.
 QUEST_JOBSTEP_20150317_000706	Oracle Master
-QUEST_JOBSTEP_20150317_000707	Even when the goddess is absent, oracle should pass the oracle well.{nl}I will test whether you are qualified for it by dueling against you.
-QUEST_JOBSTEP_20150317_000708	I checked your competence well enough.{nl}As an oracle master, I will help you interpret the oracle well.
+QUEST_JOBSTEP_20150317_000707	Even in the Goddess' absence, an Oracle should pass the Oracle Well.{nl}I will test whether you are qualified for it by dueling against you.
+QUEST_JOBSTEP_20150317_000708	I checked your competence well enough.{nl}As an Oracle Master, I will assist you in interpreting the Oracle Well.
 QUEST_JOBSTEP_20150317_000709	Are you ready?{nl}I will see you under the stairs.
 QUEST_JOBSTEP_20150317_000710	Mirtis
 QUEST_JOBSTEP_20150317_000711	Object Text
